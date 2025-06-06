@@ -2,6 +2,8 @@
 
 This bot uses a P2P earthquake information API to automatically notify the latest earthquake information to Discord servers.
 
+[Japan](README.md)
+
 ## Features
 
 - Checks the latest earthquake information every minute
